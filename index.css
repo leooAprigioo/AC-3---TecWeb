@@ -1,0 +1,21 @@
+.cabecalho h1 {
+    color:red;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.sublinhado {
+    text-decoration: underline;
+}
+
+.verde {
+    color: green;
+}
+
+.vermelho {
+    color: red;
+}
